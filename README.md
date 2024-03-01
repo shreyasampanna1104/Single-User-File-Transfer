@@ -1,4 +1,4 @@
-                                              Multi-User File Transfer Application with Pause and Resume Capability
+            Multi-User File Transfer Application with Pause and Resume Capability
 Welcome to a sophisticated Java-powered multi-user file transfer application, 
 a robust solution poised to transform file sharing experiences. 
 This project adeptly manages concurrent file transfers,
